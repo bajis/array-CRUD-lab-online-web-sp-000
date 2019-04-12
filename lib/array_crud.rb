@@ -17,7 +17,7 @@ array.unshift("wow")
 end
 
 def remove_element_from_end_of_array(array)
-array = ["arrays!", "not array"]
+array = ["not array", "arrays!"]
 not_array = array.pop
 end
 
